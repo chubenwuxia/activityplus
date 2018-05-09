@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">activity</string>
+
+        <string-array name="animals">
+            <item>大象</item>
+            <item>猴子</item>
+            <item>狮子</item>
+        </string-array>
+    <string-array name="animalsp">
+        <item>我选择大象</item>
+        <item>我选择猴子</item>
+        <item>我选择狮子</item>
+    </string-array>
+
+</resources>
